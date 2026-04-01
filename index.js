@@ -4,4 +4,4 @@ automobiles.unshift('bike', 'helicopter');
 let automobilesCopy= `${automobiles}`;
 automobiles.pop();
 automobiles.shift();
-document.getElementById("result").innerHTML = automibles;
+document.getElementById("result").innerHTML = automobiles;
